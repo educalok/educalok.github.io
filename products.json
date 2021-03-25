@@ -12,7 +12,10 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "availableColors": ["Red"]
+      "availableColors": ["Red"],
+      "gender": "Male",
+      "material" = ["cotton", "spandex", "tencel", "rayon"],
+      "category" = ["innerwear", "dress", "robe", "pajamas"]
     },
 
     {
@@ -27,7 +30,10 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "availableColors": ["Red", "White", "Black", "Blue"]
+      "availableColors": ["Red", "White", "Black", "Blue"],
+      "gender": "Male",
+      "material" = ["modal", "cotton", "spandex"],
+      "category" = ["innerwear","pajamas", "sweater", "pants"]
     },
 
     {
@@ -42,7 +48,10 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "availableColors": ["Red", "White", "Black", "Blue"]
+      "availableColors": ["Red", "White", "Black", "Blue"],
+      "gender": "Male",
+      "material" = ["modal", "cotton", "spandex"],
+      "category" = ["innerwear", "dress", "sweater", "pants"]
     },
 
     {
@@ -57,7 +66,10 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "availableColors": ["Red", "White"]
+      "availableColors": ["Red", "White"],
+      "gender": "Male",
+      "material" = ["modal", "cotton", "spandex", "tencel", "rayon"],
+      "category" = ["innerwear", "dress", "robe", "pajamas", "sweater", "pants"]
     },
 
     {
@@ -72,7 +84,10 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "availableColors": ["White", "Blue"]
+      "availableColors": ["White", "Blue"],
+      "gender": "Male",
+      "material" = ["modal", "cotton", "spandex", "tencel", "rayon"],
+      "category" = ["innerwear", "dress", "robe", "pajamas", "sweater", "pants"]
     },
 
     {
@@ -87,7 +102,10 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "availableColors": ["Red", "White", "Black", "Blue"]
+      "availableColors": ["Red", "White", "Black", "Blue"],
+      "gender": "Female",
+      "material" = ["modal", "cotton", "spandex", "tencel", "rayon"],
+      "category" = ["innerwear", "dress", "robe", "pajamas", "sweater", "pants"]
     },
 
     {
@@ -102,7 +120,10 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "availableColors": ["Red", "White", "Black", "Blue"]
+      "availableColors": ["Red", "White", "Black", "Blue"],
+      "gender": "Female",
+      "material" = ["modal", "cotton", "spandex", "tencel", "rayon"],
+      "category" = ["innerwear", "dress", "robe", "pajamas", "sweater", "pants"]
     },
 
     {
@@ -117,7 +138,10 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "availableColors": ["Red", "Blue"]
+      "availableColors": ["Red", "Blue"],
+      "gender": "Female",
+      "material" = ["modal", "cotton", "spandex", "tencel", "rayon"],
+      "category" = ["innerwear", "dress", "robe", "pajamas", "sweater", "pants"]
     },
 
     {
@@ -132,7 +156,10 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "availableColors": ["Red", "Blue"]
+      "availableColors": ["Red", "Blue"],
+      "gender": "Female",
+      "material" = [ "spandex", "tencel", "rayon"],
+      "category" = ["innerwear", "robe", "pajamas", "sweater", "pants"]
     },
 
     {
@@ -147,7 +174,10 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "availableColors": ["White", "Black"]
+      "availableColors": ["White", "Black"],
+      "gender": "Female",
+      "material" = ["modal", "cotton", "tencel"],
+      "category" = ["innerwear", "dress", "robe"]
     },
 
     {
@@ -162,7 +192,10 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": false,
-      "availableColors": ["Black"]
+      "availableColors": ["Black"],
+      "gender": "Female",
+      "material" = ["rayon"],
+      "category" = ["innerwear", ]
     },
 
     {
@@ -177,7 +210,10 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": false,
-      "availableColors": ["Black"]
+      "availableColors": ["Black"],
+      "gender": "Female",
+      "material" = [ "rayon"],
+      "category" = ["innerwear", "dress", "robe", "pajamas", "sweater", "pants"]
     },
 
     {
@@ -192,7 +228,10 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "availableColors": ["Red", "White", "Blue"]
+      "availableColors": ["Red", "White", "Blue"],
+      "gender": "Female",
+      "material" = ["modal", "cotton", "spandex", "tencel", "rayon"],
+      "category" = ["sweater", "pants"]
     },
 
     {
@@ -207,7 +246,10 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "availableColors": ["Red", "Black", "Blue"]
+      "availableColors": ["Red", "Black", "Blue"],
+      "gender": "Female",
+      "material" = ["modal"],
+      "category" = ["innerwear", "dress", "robe", "pajamas", "sweater", "pants"]
     },
 
     {
@@ -222,7 +264,10 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": false,
-      "availableColors": ["White"]
+      "availableColors": ["White"],
+      "gender": "Male",
+      "material" = ["modal", "cotton", "spandex", "tencel", "rayon"],
+      "category" = ["innerwear"]
     },
 
     {
@@ -237,7 +282,10 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "availableColors": ["Blue"]
+      "availableColors": ["Blue"],
+      "gender": "Male",
+      "material" = ["modal", "cotton", "tencel"],
+      "category" = ["innerwear", "dress"]
     },
 
     {
@@ -252,7 +300,10 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "availableColors": ["Red", "Black", "Blue"]
+      "availableColors": ["Red", "Black", "Blue"],
+      "gender": "Male",
+      "material" = ["modal","spandex", "tencel"],
+      "category" = ["innerwear","robe", "sweater", "pants"]
     }
   ]
 }
